@@ -81,6 +81,8 @@ export default class IconNB extends NativeBaseComponent {
         }
     }
 
+    static getImageSource = FontAwesome.getImageSource
+
     getInitialStyle() {
         return {
             icon: {

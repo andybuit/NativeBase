@@ -13,7 +13,7 @@ Get on the mobile fast track with NativeBase, the fastest-growing platform and t
 -	[Testimonials](#testimonials)
 -	[Why NativeBase?](#why-nativebase)
 -	[Magic of NativeBase](#magic-of-nativebase)
--	[Release Notes](http://nativebase.io/docs/v0.5.5/release-notes)
+-	[Change Log](https://github.com/GeekyAnts/NativeBase/releases/tag/v0.5.8)
 -	[Get Started](#get-started)
 -	[Components](#components)
 -	[Native Starter Kit](#native-starter-kit)
@@ -51,6 +51,9 @@ Some quotes from users of **NativeBase**
 
 **Recommended by [Awesome React Native](https://github.com/jondot/awesome-react-native)**
 >NativeBase added into the list of [Frameworks](https://github.com/jondot/awesome-react-native#frameworks) of Awesome React Native.
+
+**Peer Richelsen**
+>I highly recommend NativeBaseIO for React Native mobile app development. It speeds up development by 1000%
 
 **moosawi**
 >Best framework for React Native.
